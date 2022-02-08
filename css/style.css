@@ -94,5 +94,5 @@ img {
 .text-sub {
     margin: 0 auto 0 0;
     padding-left: 50px;
-    min-width: 150;
+    min-width:0;
 }
